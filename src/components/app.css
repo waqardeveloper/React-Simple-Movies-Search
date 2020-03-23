@@ -1,0 +1,13 @@
+body {
+    font-family: Arimo,Arial,Helvetica,lucida grande,sans-serif;
+    letter-spacing: -.03em;
+    font-size: 16px;
+    margin: 0 auto;
+    background-color: #1d1d1d;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    color: #fff;
+}
+.margin3em {
+    margin-top : 3em !important;
+}
